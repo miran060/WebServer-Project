@@ -16,4 +16,4 @@
     out.println("오늘 날짜 : " + todayStr);
 %>
 </body>
-</html>A
+</html>
